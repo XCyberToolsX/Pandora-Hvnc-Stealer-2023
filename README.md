@@ -1,6 +1,6 @@
 # Pandora-Hvnc-Stealer-2023
 Pandora HVNC Rat 2023  Telegram : @XCyberToolsX
-=Pandora hVNC + Stealer (Hidden Virtual Network Computing)== 2022 latest version 
+=Pandora hVNC + Stealer (Hidden Virtual Network Computing)== 2023 latest version 
 
 Q: What is Hidden VNC?
 
